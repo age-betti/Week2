@@ -1,0 +1,6 @@
+C:\Users\Age\Desktop\OOExercise1week2-20180318T112821Z-001\OOweek2_101644658\OOExercise1week2\bin\Debug\OOExercise1week2.dll
+C:\Users\Age\Desktop\OOExercise1week2-20180318T112821Z-001\OOweek2_101644658\OOExercise1week2\bin\Debug\OOExercise1week2.pdb
+C:\Users\Age\Desktop\OOExercise1week2-20180318T112821Z-001\OOweek2_101644658\OOExercise1week2\obj\Debug\OOExercise1week2_101644658.csprojResolveAssemblyReference.cache
+C:\Users\Age\Desktop\OOExercise1week2-20180318T112821Z-001\OOweek2_101644658\OOExercise1week2\obj\Debug\OOExercise1week2_101644658.csproj.CoreCompileInputs.cache
+C:\Users\Age\Desktop\OOExercise1week2-20180318T112821Z-001\OOweek2_101644658\OOExercise1week2\obj\Debug\OOExercise1week2.dll
+C:\Users\Age\Desktop\OOExercise1week2-20180318T112821Z-001\OOweek2_101644658\OOExercise1week2\obj\Debug\OOExercise1week2.pdb
